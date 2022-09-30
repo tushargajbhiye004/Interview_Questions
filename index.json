@@ -406,4 +406,30 @@
         "id" : "72",
         "question" : "A horse jumps over a castle, then lands on a man. The man disappears. What’s happening?",
         "answerLink" : "https://en.wikipedia.org/wiki/Chess"}, 
+ {
+        "id" : "73",
+        "question" : "Tell me about yourself.",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#5d88145e-196a-4a1b-8b1f-9e72d9516465"
+ }, 
+ {
+        "id" : "74",
+        "question" : "Walk me through your resume.",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#0897abb8-694a-4025-b643-e2fb1527bace"
+ },
+ {
+        "id" : "75",
+        "question" : "How did you hear about this position?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#33591c24-224d-48f6-acb6-a8fc17d27c5c"
+ },
+ {
+        "id" : "76",
+        "question" : "Why do you want to work at this company?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#291026ff-46ed-412f-b3d1-dbfe12c929eb"
+ },
+ {
+        "id" : "77",
+        "question" : "Why do you want this job?",
+        "answerLink" : "https://www.themuse.com/advice/interview-questions-and-answers#ece1229d-d8e1-4fe8-b764-e7fe8db039e9"
+ }, 
+
 ]
